@@ -1,7 +1,8 @@
 # WoW Forever — Warrior Talent Trees
 A compact reference for the current Warrior talent-tree layout used by this calculator.
 
-Summary of Changes
+Summary of Changes:
+
 Arms
 - Impale now also grants +2 / +4% critical-strike chance.
 - Improved Slam moved higher to Row 4.
