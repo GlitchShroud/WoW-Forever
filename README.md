@@ -12,6 +12,7 @@ Arms
 
 Fury
 - Booming Voice reduced to 2 ranks with +25 / 50% radius.
+- Unbridled Wrath — now generates 2 additional Rage when it procs, increased to 4 Rage with two-handed weapons.
 - Improved Execute moved higher to Row 3.
 - Improved Intercept moved higher to Row 4.
 - Flurry swapped with Enrage and moved higher to Row 5.
