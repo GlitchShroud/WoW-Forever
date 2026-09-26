@@ -6,7 +6,7 @@ Arms
 - Impale now also grants +2 / +4% critical-strike chance.
 - Improved Slam moved higher to Row 4.
 - Improved Hamstring moved higher to Row 5.
-- Bloodthrill reduced to 2 ranks with 5 / 10% proc chance.
+- Bloodthrill reduced to 2 ranks with 5 / 10% proc chance and moved lower to Row 6.
 - Two-Handed Weapon Specialization moved lower to Row 6 with +2 / 4 / 6% damage.
 
 Fury
